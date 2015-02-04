@@ -3,9 +3,13 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
+            <file>file:/C:/xampp/htdocs/JorgeH-Blog/post.php</file>
             <file>file:/C:/xampp/htdocs/JorgeH-Blog/controller/create-db.php</file>
+            <file>file:/C:/xampp/htdocs/JorgeH-Blog/model/config.php</file>
             <file>file:/C:/xampp/htdocs/JorgeH-Blog/model/database.php</file>
+            <file>file:/C:/xampp/htdocs/JorgeH-Blog/view/form.php</file>
             <file>file:/C:/xampp/htdocs/JorgeH-Blog/index.php</file>
+            <file>file:/C:/xampp/htdocs/JorgeH-Blog/view/navigation.php</file>
         </group>
     </open-files>
 </project-private>
