@@ -5,6 +5,7 @@
         <group>
             <file>file:/C:/xampp/htdocs/JorgeH-Blog/model/config.php</file>
             <file>file:/C:/xampp/htdocs/JorgeH-Blog/controller/create-db.php</file>
+            <file>file:/C:/xampp/htdocs/JorgeH-Blog/model/Database.php</file>
             <file>file:/C:/xampp/htdocs/JorgeH-Blog/controller/create-post.php</file>
         </group>
     </open-files>
