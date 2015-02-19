@@ -1,4 +1,11 @@
-<form>
+<!-- Gets the file out of view folder through the DIR and into the model to get to the config -->
+<?php
+    require_once(__DIR__ . "/../model/config.php");
+?>
+   
+<h1>Register</h1>
+
+<form method="post" action="<?php echo $path . "controller/create-user.php"; ?>">
     <div>
         <label for="email">Email: </label>
         <input type="text" name="email" />

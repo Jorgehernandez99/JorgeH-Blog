@@ -8,7 +8,7 @@
     $username = "root";
     $password = "root";
     $database = "blog_db";
-    
+    /* the isset  is a word that asks if it is set or connected to the database*/
     if(!isset($_SESSION["connection"])) {
         $connection = new Database($host, $username, $password, $database);
         $_SESSION["connection"] = $connection;
