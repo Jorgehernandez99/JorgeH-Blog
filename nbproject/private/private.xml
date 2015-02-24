@@ -5,7 +5,9 @@
         <group>
             <file>file:/C:/xampp/htdocs/JorgeH-Blog/controller/create-user.php</file>
             <file>file:/C:/xampp/htdocs/JorgeH-Blog/controller/create-post.php</file>
+            <file>file:/C:/xampp/htdocs/JorgeH-Blog/controller/read-posts.php</file>
             <file>file:/C:/xampp/htdocs/JorgeH-Blog/view/register-form.php</file>
+            <file>file:/C:/xampp/htdocs/JorgeH-Blog/index.php</file>
         </group>
     </open-files>
 </project-private>
