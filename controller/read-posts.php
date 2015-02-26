@@ -1,3 +1,4 @@
+<!-- Code so you can read post on the blog website -->
 <?php
 
     require_once(__DIR__ . "/../model/config.php");

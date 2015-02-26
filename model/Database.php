@@ -1,7 +1,7 @@
 <?php
 
 class Database {
-
+/* Variables */
     private $connection;
     private $host;
     private $username;
@@ -33,7 +33,7 @@ class Database {
             echo "<p>Database already exists.</p>";
         }
     }
-
+/* Functions that work on all the other files */
     public function openConnection() {
         $this->connection = new mysqli($this->host, $this->username, $this->password, $this->database);
 

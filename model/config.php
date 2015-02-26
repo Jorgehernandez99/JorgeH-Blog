@@ -1,3 +1,4 @@
+<!-- Code that connects the project on a local server called xxamp */
 <?php
     require_once(__DIR__ . "/database.php");
     session_start();

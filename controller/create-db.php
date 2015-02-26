@@ -1,3 +1,4 @@
+<!-- Code that checks for a database or creates a database -->
 <?php
     require_once(__DIR__ . "/../model/config.php");
     
